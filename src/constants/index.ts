@@ -9,7 +9,7 @@ export const NAV_ITEMS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/Tahasaif3/Animated-3d-Gaming-Website
+  sourceCode: "https://github.com/Tahasaif3/Animated-3d-Gaming-Website"
 } as const;
 
 export const SOCIAL_LINKS = [
